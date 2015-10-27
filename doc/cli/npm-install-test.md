@@ -1,4 +1,4 @@
-# npm install-test(1) -- Install and test a package
+# npm install-test(1) -- Install package(s) and run tests
 
 ## SYNOPSIS
 
