@@ -16,10 +16,10 @@
 
 ## DESCRIPTION
 
-    This command runs an `npm install` followed immediately by an `npm test`. It
-    takes exactly the same arguments as `npm install`.
+This command runs an `npm install` followed immediately by an `npm test`. It
+takes exactly the same arguments as `npm install`.
 
 ## SEE ALSO
 
-  - npm-install(1)
-  - npm-test(1)
+- npm-install(1)
+- npm-test(1)
